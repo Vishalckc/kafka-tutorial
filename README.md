@@ -2,6 +2,8 @@
 This kafka tutorial provides both producer and consumer classes with a sample topic "exampletopic" exposed over  a Restful API api/v1/messages
 using Apache Zookeeper, Kafka broker, producer, consumer and Kafka rest template
 
+https://kafka.apache.org/documentation/#quickstart
+
 **1 Download Kafka**
 
 **2 Run Zookeeper with config**
