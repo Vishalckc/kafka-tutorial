@@ -18,6 +18,10 @@ https://kafka.apache.org/documentation/#quickstart
 
 **How to Run** -
 
+Run KafkaApplication main class (default port 8080)
+
+**How to test?**
+
 Use postman for API operations
 
 Sample Json Request below:
